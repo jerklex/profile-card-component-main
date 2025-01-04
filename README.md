@@ -19,7 +19,7 @@ Bu, [Frontend Mentor'daki profil kart bileşeni](https://www.frontendmentor.io/c
 
 ### Ekran Görüntüsü
 
-![](design/ss.png)
+![](images/ss.png)
 
 ### Bağlantılar
 
