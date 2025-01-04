@@ -1,9 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-# Frontend Mentor - Social links profile solution
-
-Bu, [Frontend Mentor'daki profil kart bileşeni]((https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) bir çözümdür. Frontend Mentor zorlukları, gerçekçi projeler oluşturarak kodlama becerilerinizi geliştirmenize yardımcı olur.
+Bu, [Frontend Mentor'daki profil kart bileşeni](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) bir çözümdür. Frontend Mentor zorlukları, gerçekçi projeler oluşturarak kodlama becerilerinizi geliştirmenize yardımcı olur.
 
 ## İçindekiler
 - [Genel Bakış](#genel-bakış)
@@ -26,8 +23,8 @@ Bu, [Frontend Mentor'daki profil kart bileşeni]((https://www.frontendmentor.io/
 
 ### Bağlantılar
 
-- Solution URL: [Add solution URL here](https://github.com/jerklex/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://jerklex.github.io/social-links-profile-main/)
+- Solution URL: [Add solution URL here](https://github.com/jerklex/profile-card-component-main)
+- Live Site URL: [Add live site URL here](https://jerklex.github.io/profile-card-component-main/)
 
 ## Sürecim
 
