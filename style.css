@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+:root{
+    --dark-cyan: hsl(185, 75%, 39%);
+    --very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --dark-grayish-blue: hsl(227, 10%, 46%);
+    --dark-grey: hsl(0, 0%, 59%);
+
+}
+
+body {
+    min-height: 700px;
+    background-color:  var(--dark-cyan);
+    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-position: right 50vw bottom 40vh, left 50vw top 50vh;
+    background-repeat: no-repeat, no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Kumbh Sans", serif;
+    font-weight: 400;
+}
+
+.profile-card {
+    width: 350px;
+    display: grid;
+    
+    background: white;
+    color: var(--dark-grayish-blue);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 60px 80px rgba(0,0,0,.16);
+}
+.profile-card-profile{
+  text-align: center;
+  justify-items: center; 
+  
+}
+.profile-card-banner{
+    display:flex;
+    flex-wrap:wrap;
+    height: 220px;
+}
+.profile-card-avatar{
+    height: 100px;
+    position: relative;
+    top:-53px;
+    margin: auto;
+    border: 5px solid #f7f7f7;
+    border-radius: 50%;
+    transition: .7s ease;
+}
+.profile-card-images{
+    width: 100%;
+}
+.profile-card-info{
+    
+    display: flex;            
+  flex-wrap: wrap; 
+  gap: 10px;    
+  justify-content: center;   /* Yatayda ortalar */
+  align-items: center;  
+  width: 175px;
+
+}
+.profile-card-counts{
+    display: flex;
+    padding: 0px 0px 15px;
+}
+.profile-card-count{
+    padding: 10px;
+}
+p{
+        font-size: 18px;
+        margin: 0;
+}
+h1{
+    color:var(--very-dark-desaturated-blue);
+    font-weight: 800;
+    font-size: 18px;
+    margin: 0;
+}
+.location{
+    padding: 0px 0px 20px;
+    font-size: 14px;
+}
+h3{
+    margin:0;
+    padding: 0px 20px 0px;
+    color:var(--very-dark-desaturated-blue);
+    font-weight: 700;
+}
+.profile-card-count p{
+    font-size: 10px;
+    letter-spacing:2px
+}
